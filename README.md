@@ -37,7 +37,7 @@ Example tweet:
 ├── cold_weather.png # Weather image for cold days \
 ├── regular_weather.png # Weather image for moderate days \
 ├── hot_weather.png # Weather image for hot days \
-└── keys.py (private) # API keys (not included) \
+└── keys.py (private) # API keys (not included)
 
 ---
 
@@ -73,7 +73,7 @@ bearer_token = "YOUR_TWITTER/𝕏_BEARER_TOKEN"
 api_key_openweather = "YOUR_OPENWEATHERMAP_API_KEY"
 ```
 
-3. **Add weather images:** \
+3. **Add weather images:**
 Make sure cold_weather.png, regular_weather.png, and hot_weather.png are present in the same directory as main_TWB.py.
 
 ---
