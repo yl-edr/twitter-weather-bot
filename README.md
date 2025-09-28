@@ -90,3 +90,4 @@ Or automate it to run daily using a third-party scheduler such as [PythonAnywher
 
 ## 📜 License
 This project is licensed under the MIT License - feel free to use and modify it.
+*Author:* Yaal Edrey
